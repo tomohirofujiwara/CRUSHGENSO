@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Terms of Service</title>
+    <style>
+        body { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif; line-height: 1.6; max-width: 800px; margin: 0 auto; padding: 20px; color: #333; }
+        h1, h2 { border-bottom: 2px solid #eee; padding-bottom: 5px; margin-top: 30px; }
+        p, ul, li { font-size: 16px; }
+        ul { list-style-type: none; padding: 0; }
+        ul li::before { content: "•"; color: #555; font-weight: bold; display: inline-block; width: 1em; margin-left: -1em; }
+        .lang-section { border-top: 5px solid #ccc; margin-top: 50px; padding-top: 20px; }
+    </style>
+</head>
+<body>
+
+    <h1>Terms of Service</h1>
+
+    <h2>Article 1 (Introduction)</h2>
+    <p>This agreement sets forth the terms of use for the application "Atom Crush" (hereinafter referred to as "this App") provided by Tomohiro Fujiwara (hereinafter referred to as "the Provider"). Users of this App shall use it after agreeing to these terms.</p>
+
+    <h2>Article 2 (Intellectual Property Rights)</h2>
+    <p>All copyrights, patent rights, trademark rights, and other intellectual property rights related to this App belong to the Provider.</p>
+
+    <h2>Article 3 (Prohibited Actions)</h2>
+    <p>Users must not engage in the following acts when using this App:</p>
+    <ul>
+        <li>Acts that violate laws or this agreement</li>
+        <li>Acts contrary to public order and morals</li>
+        <li>Acts that infringe on the intellectual property rights, privacy rights, right of honor, or other rights or interests of other users or third parties</li>
+        <li>Acts that interfere with the operation of this App, or acts that may cause such interference</li>
+        <li>Other acts that the Provider deems inappropriate</li>
+    </ul>
+
+    <h2>Article 4 (Disclaimer)</h2>
+    <p>1. This App is provided as is, and the Provider makes no warranties regarding its completeness, accuracy, usefulness, or suitability for a particular purpose.</p>
+    <p>2. The Provider shall not be liable for any damages incurred by users or third parties arising from the use of this App.</p>
+
+    <h2>Article 5 (Suspension of Use and Account Deletion)</h2>
+    <p>If a user violates this agreement, the Provider may, without prior notice, suspend the use of this App by the user or delete their account.</p>
+
+    <h2>Article 6 (Changes to and Termination of Service)</h2>
+    <p>The Provider may change, add to, or terminate the services of this App without prior notice.</p>
+
+    <h2>Article 7 (Governing Law and Jurisdiction)</h2>
+    <p>The formation, validity, performance, and interpretation of this agreement shall be governed by Japanese law. All disputes related to this agreement shall be subject to the exclusive jurisdiction of the district court having jurisdiction over the location of the Provider as the court of first instance.</p>
+
+    <h2>Supplementary Provisions</h2>
+    <p>This agreement shall be effective from 2025-8-23].</p>
+
+    <div class="lang-section">
+        <h1>利用規約</h1>
+
+        <h2>第1条 (はじめに)</h2>
+        <p>本規約は、Tomohiro Fujiwara（以下「運営者」といいます）が提供するアプリケーション「Atom Crush」（以下「本アプリ」といいます）の利用に関する条件を定めるものです。本アプリの利用者は、本規約に同意した上で本アプリを利用するものとします。</p>
+
+        <h2>第2条 (知的財産権)</h2>
+        <p>本アプリに関する著作権、特許権、商標権、およびその他の知的財産権は、すべて運営者に帰属します。</p>
+
+        <h2>第3条 (禁止事項)</h2>
+        <p>利用者は、本アプリの利用にあたり、以下の行為を行ってはならないものとします。</p>
+        <ul>
+            <li>法令または本規約に違反する行為</li>
+            <li>公序良俗に反する行為</li>
+            <li>他の利用者または第三者の知的財産権、プライバシー権、名誉権、その他の権利または利益を侵害する行為</li>
+            <li>本アプリの運営を妨げる行為、またはそのおそれのある行為</li>
+            <li>その他、運営者が不適切と判断する行為</li>
+        </ul>
+
+        <h2>第4条 (免責事項)</h2>
+        <p>1. 本アプリは現状有姿で提供され、運営者は本アプリの完全性、正確性、有用性、特定の目的への適合性について、いかなる保証も行いません。</p>
+        <p>2. 本アプリの利用により、利用者または第三者に生じた損害について、運営者は一切の責任を負いません。</p>
+
+        <h2>第5条 (利用の停止・アカウント削除)</h2>
+        <p>運営者は、利用者が本規約に違反した場合、事前に通知することなく、当該利用者に対する本アプリの利用を停止し、またはアカウントを削除することができるものとします。</p>
+
+        <h2>第6条 (サービスの変更・終了)</h2>
+        <p>運営者は、本アプリのサービス内容を事前の通知なく変更、追加、または終了することができるものとします。</p>
+
+        <h2>第7条 (準拠法および管轄)</h2>
+        <p>本規約の成立、効力、履行および解釈に関しては、日本法が適用されるものとします。また、本規約に関する一切の紛争については、運営者の所在地を管轄する地方裁判所を第一審の専属的合意管轄裁判所とします。</p>
+
+        <h2>附則</h2>
+        <p>本規約は、2025年8月23日より適用されるものとします。</p>
+    </div>
+
+</body>
+</html>
